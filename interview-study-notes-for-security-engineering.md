@@ -1,5 +1,4 @@
-# Security Engineering at Google: My Interview Study Notes
-## By [nolang](https://twitter.com/__nolang)
+# Security Engineering:
 
 ### Contents
 - [README](README.md)
